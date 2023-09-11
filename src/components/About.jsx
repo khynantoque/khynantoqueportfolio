@@ -41,8 +41,8 @@ const About = () => {
                 <p className={styles.sectionHeadText}>Overview.</p>
             </motion.div>
             <motion.p variants={fadeIn("", "", 0.1, 1)}>
-            I am a Junior Front-End Developer with a strong foundation in HTML, 
-            CSS, JavaScript, React, Tailwind, and SCSS. I am skilled in designing 
+            I am a Junior Web Developer with a strong foundation in HTML, 
+            CSS, JavaScript, React, Tailwind, and Django. I am skilled in designing 
             and maintaining responsive websites that provide a seamless user experience. 
             I am also an expert in creating dynamic and engaging interfaces through 
             clean and optimized code, as well as cutting-edge development tools and 

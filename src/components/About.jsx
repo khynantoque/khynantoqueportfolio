@@ -41,11 +41,13 @@ const About = () => {
                 <p className={styles.sectionHeadText}>Overview.</p>
             </motion.div>
             <motion.p variants={fadeIn("", "", 0.1, 1)}>
-                I am a skilled full stack developer with experience in programming Python
-                scripts, React, and Node.js. I am always eager to learn new technologies 
-                and frameworks, and to improve my coding and problem-solving skills. 
-                I am a highly motivated and results-oriented individual, with a strong 
-                work ethic and a team player attitude.
+            I am a Junior Front-End Developer with a strong foundation in HTML, 
+            CSS, JavaScript, React, Tailwind, and SCSS. I am skilled in designing 
+            and maintaining responsive websites that provide a seamless user experience. 
+            I am also an expert in creating dynamic and engaging interfaces through 
+            clean and optimized code, as well as cutting-edge development tools and 
+            techniques. I am a team player who enjoys collaborating with cross-functional 
+            teams to create outstanding web applications.
             </motion.p>
 
             <div className="mt-20 flex flex-wrap gap-10">

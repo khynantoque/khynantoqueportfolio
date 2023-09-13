@@ -1,5 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
+import { Typewriter } from 'react-simple-typewriter'
 
 import { styles } from '../styles'
 import { ComputersCanvas } from './canvas'
@@ -14,7 +15,17 @@ const Hero = () => {
                 </div>
                 <div>
                     <h1 className={`${styles.heroHeadText} text-white`}>
-                        Hi! I'm <span className='text-[#56d262]'>Khyn</span>
+                        
+                        Hi! I'm <span className='text-[#56d262]'>
+                        <Typewriter
+                            words={['Khyn', 'a Front-End Developer', 'a Backend Developer', 'an Android Developer']}
+                            loop={0}
+                            cursor
+                            cursorStyle='|'
+                            typeSpeed={65}
+                            deleteSpeed={70}
+                        />
+                        </span>
                     </h1>
                     <p className={`${styles.heroSubText} mt-2 text-white-100`}>
                         I develop web applications using <br className='sm:block hidden'/> React, TailwindCSS,

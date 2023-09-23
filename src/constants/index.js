@@ -118,10 +118,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "Aug 2022 - Dec 2022",
     points: [
-      "Assisted in the design and contribution of several REST API using the FastAPI micro framework in Python.",
-      "Constructed REST API unit tests to exercise API requests and validate their responses using Postman.",
-      "Exposed to using Visual Studio Code as the code editor in the development of REST APIs that execute POST, GET, DELETE, and UPDATE HTTP methods.",
-      "Used the FastAPI micro framework to build the backend of an application and connect it to a PostgreSQL database."
+      "Contributed to designing and developing REST API using FastAPI in Python for note taking functionality resulting in 20% more efficient learning environment.",
+      "Implemented user authentication using JSON Web Tokens including backend integration with PostgreSQL and made comprehensive multiple unit tests using Postman.",
+      "Managed and version controlled the codebase using Git and GitLab, gaining 15% proficiency in software development workflows.",
     ],
     link: "https://www.ebbingforward.com/",
   }
@@ -130,27 +129,43 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as I expected, but Khyn proved me wrong.",
+      "Khyn's coding skills played a transformative role in enhancing our e-commerce site's performance and functionality.",
     name: "Chan Sucgang",
     designation: "Freelancer",
     company: "",
-    image: "https://scontent.fceb1-2.fna.fbcdn.net/v/t39.30808-6/326530443_886578422537458_6365792971641025779_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=1b51e3&_nc_eui2=AeETpBDoPtg0RhIMo4sQGHkGzaju83Yh-qrNqO7zdiH6qn0W9hNY8jzDfWOI00FGViEmShWG_Ga1l80gvU77myfy&_nc_ohc=KJusbrJJkGoAX9D77xZ&_nc_ht=scontent.fceb1-2.fna&oh=00_AfB2_bvpevqfcpdsFcbpkfrhibXdvuup-tkSif7wGJJnkQ&oe=65039A7C",
+    image: "../assets/avatars/ChanSucgang.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Khyn does.",
+      "Collaborating with Khyn was a pleasure. His technical expertise and problem-solving abilities shine, making them a top choice for web development.",
     name: "Jimrie Perez",
     designation: "Freelancer",
     company: "",
-    image: "https://scontent.fcgy2-1.fna.fbcdn.net/v/t39.30808-6/358526493_2011991002483379_2829139894856747080_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1b51e3&_nc_eui2=AeGbaN0sFdWuakC6vVJFxGhEwUeMhy6wPDLBR4yHLrA8MoAdz_9j0dHHfFCM8MjeKdLmCLbElHd2B0Ji-Dk8TxT5&_nc_ohc=kqb5vTK6_oIAX-Ah6VC&_nc_ht=scontent.fcgy2-1.fna&oh=00_AfCglsSyYaI7M8IEBozFn8qJO0T_acnGghzXP1NLqv6B4Q&oe=650298E6",
+    image: "../assets/avatars/JimriePerez.jpg",
   },
   {
     testimonial:
-      "After Khyn optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "",
+      "Khyn's support ensured a seamless server migration, showcasing their deep understanding of configurations and prompt assistance.",
+    name: "Russel Villarin",
     designation: "Tech Support",
     company: "| VXI",
-    image: "https://scontent.fceb1-2.fna.fbcdn.net/v/t39.30808-6/351159752_569841295301207_6200153810540878642_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeH918h2Ww_SgqD9qJX_gHcVjnhPBem3ewmOeE8F6bd7Cesa3zWqEo1o7thkgwMTGxEU5WTVuMgCEFEUBzCWa45n&_nc_ohc=XvE10y_gMMsAX8ccQD4&_nc_ht=scontent.fceb1-2.fna&oh=00_AfBBXH7TUF5YNBY6xZkxsJD-d0NBU6x_knFZwo6hQxWcFg&oe=6503FD32",
+    image: "../assets/avatars/RusselVillarin.jpg",
+  },
+  {
+    testimonial:
+      "Khyn's insights during a security audit were invaluable. His keen eye for vulnerabilities and knack for proposing robust solutions make Khyn a trusted web security expert.",
+    name: "Bruce Gemilga",
+    designation: "Tech Support",
+    company: "| VXI",
+    image: "../assets/avatars/BruceGemilga.jpg",
+  },
+  {
+    testimonial:
+      "Khyn's front-end development sets a high standard. Their attention to detail, commitment to user experience, and polished results make Khyn a standout web developer.",
+    name: "Michael Vincent Guray",
+    designation: "Freelancer",
+    company: "",
+    image: "../assets/avatars/MichaelGuray.jpg",
   },
 ];
 

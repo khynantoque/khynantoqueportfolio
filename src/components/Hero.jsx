@@ -18,7 +18,7 @@ const Hero = () => {
                         
                         Hi! I'm <span className='text-[#56d262]'>
                         <Typewriter
-                            words={['Khyn', 'a Front-End Developer', 'a Backend Developer', 'an Android Developer']}
+                            words={['Khyn', 'a Frontend Developer', 'a Backend Developer']}
                             loop={0}
                             cursor
                             cursorStyle='|'
@@ -28,8 +28,8 @@ const Hero = () => {
                         </span>
                     </h1>
                     <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-                        I develop web applications using <br className='sm:block hidden'/> React, TailwindCSS,
-                        and create <br className='sm:block hidden'/> backend APIs using Django.
+                        I develop web applications using <br className='sm:block hidden'/> React, TailwindCSS, Material UI
+                        <br className='sm:block hidden'/> and create backend APIs <br className='sm:block hidden'/> using Django REST.
                     </p>
                 </div>
             </div>

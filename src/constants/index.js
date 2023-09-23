@@ -161,7 +161,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Khyn's front-end development sets a high standard. Their attention to detail, commitment to user experience, and polished results make Khyn a standout web developer.",
+      "Khyn's front-end development sets a high standard. His attention to detail, commitment to user experience, and polished results make Khyn a standout web developer.",
     name: "Michael Vincent Guray",
     designation: "Freelancer",
     company: "",

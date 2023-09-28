@@ -18,7 +18,7 @@ const Hero = () => {
                         
                         Hi! I'm <span className='text-[#56d262]'>
                         <Typewriter
-                            words={['Khyn', 'a Frontend Developer', 'a Backend Developer']}
+                            words={['Khyn Antoque', 'a Front-End Developer', 'a Back-End Developer']}
                             loop={0}
                             cursor
                             cursorStyle='|'

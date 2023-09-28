@@ -46,11 +46,11 @@ const services = [
     icon: web,
   },
   {
-    title: "Front End Developer",
+    title: "Front-End Developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Back-End Developer",
     icon: backend,
   },
   {
@@ -118,9 +118,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "Aug 2022 - Dec 2022",
     points: [
-      "Contributed to designing and developing REST API using FastAPI in Python for note taking functionality resulting in 20% more efficient learning environment.",
-      "Implemented user authentication using JSON Web Tokens including backend integration with PostgreSQL and made comprehensive multiple unit tests using Postman.",
-      "Managed and version controlled the codebase using Git and GitLab, gaining 15% proficiency in software development workflows.",
+      "Increased the efficiency of the learning environment by 20% by developing a REST API using FastAPI in Python for note taking functionality.",
+      "Improved the security of the application by implementing user authentication using JSON Web Tokens.",
+      "Ensured the quality of the API by writing comprehensive multiple unit tests using Postman.",
+      "Developed proficiency in software development workflows by managing and version controlling the codebase using Git.",
     ],
     link: "https://www.ebbingforward.com/",
   }
